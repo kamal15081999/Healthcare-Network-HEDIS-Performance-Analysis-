@@ -103,12 +103,13 @@ Generated output: 2024_hedis_compliance_rates.csv
 
 Each provider’s compliance rate per measure was calculated.
 
-Tier Assignment Logic
-Tier	Condition
-Tier 1	compliance_rate ≥ tier_1_cutoff
-Tier 2	compliance_rate ≥ tier_2_cutoff
-Tier 3	compliance_rate ≥ tier_3_cutoff
-No Tier	Below all cutoffs
+### Tier Assignment Logic
+| Tier    | Condition                       |
+| ------- | ------------------------------- |
+| Tier 1  | compliance_rate ≥ tier_1_cutoff |
+| Tier 2  | compliance_rate ≥ tier_2_cutoff |
+| Tier 3  | compliance_rate ≥ tier_3_cutoff |
+| No Tier | Below all cutoffs               |
 
 ## Outputs:
 
@@ -124,12 +125,13 @@ Generated output: provider_performance_detailed.csv
 
 Performance-based payouts were calculated based on tier eligibility.
 
-Payout Logic
-Tier	Payment Rule
-Tier 1	compliant_visits × tier_1_pay_per_compliant_member
-Tier 2	compliant_visits × tier_2_pay_per_compliant_member
-Tier 3	compliant_visits × tier_3_pay_per_compliant_member
-No Tier	$0
+### Payout Logic
+| Tier    | Payment Rule                                       |
+| ------- | -------------------------------------------------- |
+| Tier 1  | compliant_visits × tier_1_pay_per_compliant_member |
+| Tier 2  | compliant_visits × tier_2_pay_per_compliant_member |
+| Tier 3  | compliant_visits × tier_3_pay_per_compliant_member |
+| No Tier | $0                                                 |
 
 ## Outputs:
 
