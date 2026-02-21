@@ -34,17 +34,26 @@ SQLite3
 
 CSV exports for reporting
 
-# 🗂 Project Structure
+## 📁 Project Structure
+
 ```
 Healthcare-Network-HEDIS-Analysis/
 │
-├── 2024_hedis_compliance_rates.csv      # Generated Output
-├── Healthcare Analysis.py               # Code  
-├── agency_payouts_summary.csv           # Generated Output
-├── healthcare_analyst_quiz_data.sqlite  # Data file
-├── provider_performance_detailed.csv    # Generated Output
+├── Healthcare Analysis.py                 # Main analysis script
+├── healthcare_analyst_quiz_data.sqlite    # Source SQLite database
+│
+├── 2024_hedis_compliance_rates.csv        # Measure-level compliance output
+├── agency_payouts_summary.csv             # Agency payout summary
+├── provider_performance_detailed.csv      # Provider-level performance detail
+│
+├── summary.txt                            # Project notes / explanation
 ├── README.md
-
+│
+└── dashboards/                            # Visualization outputs
+    ├── kpi_summary.png
+    ├── compliance_by_measure.png
+    ├── top_agency_payouts.png
+    └── tier_distribution.png
 ```
 
 # 🔎 Step 1: Data Cleaning & Validation
