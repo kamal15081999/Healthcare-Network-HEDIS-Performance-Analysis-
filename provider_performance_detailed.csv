@@ -1,0 +1,66 @@
+provider_id,measure_id,total_visits,compliant_visits,compliance_rate,tier_1_cutoff,tier_2_cutoff,tier_3_cutoff,tier_1_pay_per_compliant_member,tier_2_pay_per_compliant_member,tier_3_pay_per_compliant_member,tier,provider_name,provider_agency_name,payout
+P001,CBP,1,1.0,1.0,0.6,0.75,0.9,20,45,90,Tier 1,Dr. Sarah Smith,Northside Medical Group,20.0
+P001,CDC,1,1.0,1.0,0.45,0.65,0.82,30,55,95,Tier 1,Dr. Sarah Smith,Northside Medical Group,30.0
+P001,COL,1,0.0,0.0,0.55,0.72,0.88,35,60,105,No Tier,Dr. Sarah Smith,Northside Medical Group,0.0
+P001,WCV,1,0.0,0.0,0.5,0.68,0.85,15,35,70,No Tier,Dr. Sarah Smith,Northside Medical Group,0.0
+P003,CBP,1,1.0,1.0,0.6,0.75,0.9,20,45,90,Tier 1,Dr. Jennifer Williams,Eastside Family Practice,20.0
+P003,CDC,1,1.0,1.0,0.45,0.65,0.82,30,55,95,Tier 1,Dr. Jennifer Williams,Eastside Family Practice,30.0
+P003,COL,2,2.0,1.0,0.55,0.72,0.88,35,60,105,Tier 1,Dr. Jennifer Williams,Eastside Family Practice,70.0
+P003,WCV,2,2.0,1.0,0.5,0.68,0.85,15,35,70,Tier 1,Dr. Jennifer Williams,Eastside Family Practice,30.0
+P004,CBP,2,1.0,0.5,0.6,0.75,0.9,20,45,90,No Tier,Dr. David Brown,Westview Clinic,0.0
+P004,CDC,2,0.0,0.0,0.45,0.65,0.82,30,55,95,No Tier,Dr. David Brown,Westview Clinic,0.0
+P004,BCS,1,0.0,0.0,0.5,0.7,0.85,25,50,100,No Tier,Dr. David Brown,Westview Clinic,0.0
+P005,CBP,1,0.0,0.0,0.6,0.75,0.9,20,45,90,No Tier,Dr. Lisa Jones,Downtown Healthcare Partners,0.0
+P005,COL,1,1.0,1.0,0.55,0.72,0.88,35,60,105,Tier 1,Dr. Lisa Jones,Downtown Healthcare Partners,35.0
+P005,WCV,3,2.0,0.6666666666666666,0.5,0.68,0.85,15,35,70,Tier 1,Dr. Lisa Jones,Downtown Healthcare Partners,30.0
+P005,BCS,1,1.0,1.0,0.5,0.7,0.85,25,50,100,Tier 1,Dr. Lisa Jones,Downtown Healthcare Partners,25.0
+P006,CBP,1,1.0,1.0,0.6,0.75,0.9,20,45,90,Tier 1,Dr. James Garcia,Suburban Medical Associates,20.0
+P008,CBP,1,1.0,1.0,0.6,0.75,0.9,20,45,90,Tier 1,Dr. Robert Davis,Community Care Physicians,20.0
+P008,CDC,1,1.0,1.0,0.45,0.65,0.82,30,55,95,Tier 1,Dr. Robert Davis,Community Care Physicians,30.0
+P008,BCS,2,0.0,0.0,0.5,0.7,0.85,25,50,100,No Tier,Dr. Robert Davis,Community Care Physicians,0.0
+P011,CBP,2,2.0,1.0,0.6,0.75,0.9,20,45,90,Tier 1,Dr. Amanda Hernandez,Northside Medical Group,40.0
+P011,CDC,0,0.0,,0.45,0.65,0.82,30,55,95,No Tier,Dr. Amanda Hernandez,Northside Medical Group,0.0
+P011,WCV,1,0.0,0.0,0.5,0.68,0.85,15,35,70,No Tier,Dr. Amanda Hernandez,Northside Medical Group,0.0
+P011,BCS,1,0.0,0.0,0.5,0.7,0.85,25,50,100,No Tier,Dr. Amanda Hernandez,Northside Medical Group,0.0
+P014,CBP,1,0.0,0.0,0.6,0.75,0.9,20,45,90,No Tier,Dr. Richard Wilson,Westview Clinic,0.0
+P014,CDC,2,1.0,0.5,0.45,0.65,0.82,30,55,95,Tier 1,Dr. Richard Wilson,Westview Clinic,30.0
+P014,WCV,1,1.0,1.0,0.5,0.68,0.85,15,35,70,Tier 1,Dr. Richard Wilson,Westview Clinic,15.0
+P014,BCS,1,1.0,1.0,0.5,0.7,0.85,25,50,100,Tier 1,Dr. Richard Wilson,Westview Clinic,25.0
+P017,CBP,1,1.0,1.0,0.6,0.75,0.9,20,45,90,Tier 1,Dr. Nancy Taylor,Metro Health Network,20.0
+P017,CDC,1,1.0,1.0,0.45,0.65,0.82,30,55,95,Tier 1,Dr. Nancy Taylor,Metro Health Network,30.0
+P017,COL,1,1.0,1.0,0.55,0.72,0.88,35,60,105,Tier 1,Dr. Nancy Taylor,Metro Health Network,35.0
+P018,CBP,2,1.0,0.5,0.6,0.75,0.9,20,45,90,No Tier,Dr. Daniel Moore,Community Care Physicians,0.0
+P018,COL,1,0.0,0.0,0.55,0.72,0.88,35,60,105,No Tier,Dr. Daniel Moore,Community Care Physicians,0.0
+P018,WCV,1,0.0,0.0,0.5,0.68,0.85,15,35,70,No Tier,Dr. Daniel Moore,Community Care Physicians,0.0
+P018,BCS,2,2.0,1.0,0.5,0.7,0.85,25,50,100,Tier 1,Dr. Daniel Moore,Community Care Physicians,50.0
+P020,CBP,2,0.0,0.0,0.6,0.75,0.9,20,45,90,No Tier,Dr. Christopher Martin,Premier Medical Group,0.0
+P020,COL,1,1.0,1.0,0.55,0.72,0.88,35,60,105,Tier 1,Dr. Christopher Martin,Premier Medical Group,35.0
+P020,BCS,1,0.0,0.0,0.5,0.7,0.85,25,50,100,No Tier,Dr. Christopher Martin,Premier Medical Group,0.0
+P021,CBP,2,2.0,1.0,0.6,0.75,0.9,20,45,90,Tier 1,Dr. Betty Lee,Northside Medical Group,40.0
+P021,CDC,2,2.0,1.0,0.45,0.65,0.82,30,55,95,Tier 1,Dr. Betty Lee,Northside Medical Group,60.0
+P021,COL,1,1.0,1.0,0.55,0.72,0.88,35,60,105,Tier 1,Dr. Betty Lee,Northside Medical Group,35.0
+P021,WCV,1,1.0,1.0,0.5,0.68,0.85,15,35,70,Tier 1,Dr. Betty Lee,Northside Medical Group,15.0
+P023,CBP,1,1.0,1.0,0.6,0.75,0.9,20,45,90,Tier 1,Dr. Susan White,Eastside Family Practice,20.0
+P023,CDC,2,1.0,0.5,0.45,0.65,0.82,30,55,95,Tier 1,Dr. Susan White,Eastside Family Practice,30.0
+P023,COL,2,1.0,0.5,0.55,0.72,0.88,35,60,105,No Tier,Dr. Susan White,Eastside Family Practice,0.0
+P024,CBP,1,0.0,0.0,0.6,0.75,0.9,20,45,90,No Tier,Dr. Mark Harris,Westview Clinic,0.0
+P025,CBP,2,2.0,1.0,0.6,0.75,0.9,20,45,90,Tier 1,Dr. Jessica Clark,Downtown Healthcare Partners,40.0
+P025,CDC,0,0.0,,0.45,0.65,0.82,30,55,95,No Tier,Dr. Jessica Clark,Downtown Healthcare Partners,0.0
+P025,COL,1,0.0,0.0,0.55,0.72,0.88,35,60,105,No Tier,Dr. Jessica Clark,Downtown Healthcare Partners,0.0
+P007,CDC,3,2.0,0.6666666666666666,0.45,0.65,0.82,30,55,95,Tier 1,Dr. Emily Miller,Metro Health Network,60.0
+P007,WCV,3,3.0,1.0,0.5,0.68,0.85,15,35,70,Tier 1,Dr. Emily Miller,Metro Health Network,45.0
+P007,BCS,4,4.0,1.0,0.5,0.7,0.85,25,50,100,Tier 1,Dr. Emily Miller,Metro Health Network,100.0
+P009,CDC,1,1.0,1.0,0.45,0.65,0.82,30,55,95,Tier 1,Dr. Maria Rodriguez,Regional Health Alliance,30.0
+P009,COL,3,3.0,1.0,0.55,0.72,0.88,35,60,105,Tier 1,Dr. Maria Rodriguez,Regional Health Alliance,105.0
+P009,WCV,3,2.0,0.6666666666666666,0.5,0.68,0.85,15,35,70,Tier 1,Dr. Maria Rodriguez,Regional Health Alliance,30.0
+P019,CDC,1,1.0,1.0,0.45,0.65,0.82,30,55,95,Tier 1,Dr. Karen Jackson,Regional Health Alliance,30.0
+P019,COL,1,1.0,1.0,0.55,0.72,0.88,35,60,105,Tier 1,Dr. Karen Jackson,Regional Health Alliance,35.0
+P019,WCV,3,3.0,1.0,0.5,0.68,0.85,15,35,70,Tier 1,Dr. Karen Jackson,Regional Health Alliance,45.0
+P022,CDC,2,2.0,1.0,0.45,0.65,0.82,30,55,95,Tier 1,Dr. Matthew Thompson,Southpoint Health Associates,60.0
+P022,WCV,1,1.0,1.0,0.5,0.68,0.85,15,35,70,Tier 1,Dr. Matthew Thompson,Southpoint Health Associates,15.0
+P002,COL,2,2.0,1.0,0.55,0.72,0.88,35,60,105,Tier 1,Dr. Michael Johnson,Southpoint Health Associates,70.0
+P002,WCV,0,0.0,,0.5,0.68,0.85,15,35,70,No Tier,Dr. Michael Johnson,Southpoint Health Associates,0.0
+P015,COL,1,1.0,1.0,0.55,0.72,0.88,35,60,105,Tier 1,Dr. Laura Anderson,Downtown Healthcare Partners,35.0
+P010,WCV,1,1.0,1.0,0.5,0.68,0.85,15,35,70,Tier 1,Dr. William Martinez,Premier Medical Group,15.0
+P012,WCV,1,1.0,1.0,0.5,0.68,0.85,15,35,70,Tier 1,Dr. John Lopez,Southpoint Health Associates,15.0
+P013,BCS,2,2.0,1.0,0.5,0.7,0.85,25,50,100,Tier 1,Dr. Patricia Gonzalez,Eastside Family Practice,50.0

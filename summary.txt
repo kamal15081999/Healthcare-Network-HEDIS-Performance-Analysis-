@@ -1,0 +1,10 @@
+
+KEY FINDINGS
+
+- Most providers are performing well - over two-thirds hit the highest performance tier
+- Some measures need attention - breast cancer screening (BCS) had the lowest 
+  compliance at 67%
+- Performance varies by agency - top agencies achieved 100% while others scored 
+  below 40%
+- Incentive payments are working - money is going to the best performers, which 
+  should encourage quality improvement
