@@ -214,4 +214,4 @@ Executive-ready CSV reporting
 # 👤 Author
 
 Kamal
-Data Analyst | HEDIS Performance Analytics | Value-Based Care Reporting
+| Data Analyst | HEDIS Performance Analytics | Value-Based Care Reporting
